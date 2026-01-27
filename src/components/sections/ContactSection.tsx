@@ -55,7 +55,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Adresse</h4>
                   <p className="text-muted-foreground">
-                    Äußere Sulzbacher Straße 128, 90491 Nürnberg
+                    Fürther Straße 9A, 90429 Nürnberg
                   </p>
                 </div>
               </div>
@@ -68,10 +68,10 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Telefon</h4>
                   <a
-                    href="tel:+4917629117689"
+                    href="tel:091138424048"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    0176 29117689
+                    091138424048
                   </a>
                 </div>
               </div>
@@ -84,9 +84,8 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Öffnungszeiten</h4>
                   <p className="text-muted-foreground">
-                    Mo. – Fr. 09:00–19:00 Uhr
-                    <br />
-                    Sa. 09:00–19:00 Uhr
+                    Di. – Sa. 09:00–19:00 Uhr
+                  
                   </p>
                 </div>
               </div>
@@ -99,7 +98,7 @@ export const ContactSection = () => {
               </Button>
 
               <Button variant="goldOutline" size="xl" asChild>
-                <a href="tel:+4917629117689">Jetzt anrufen</a>
+                <a href="tel:091138424048">Jetzt anrufen</a>
               </Button>
             </div>
           </AnimateOnScroll>
